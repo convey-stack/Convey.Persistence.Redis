@@ -1,5 +1,3 @@
-using System.Runtime.CompilerServices;
-
 namespace Convey.Persistence.Redis
 {
     public interface IRedisOptionsBuilder
